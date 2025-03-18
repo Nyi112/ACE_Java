@@ -7,5 +7,6 @@ public class EmploeeMain {
 		emp.setName("Nyi Nyi");
 		System.out.println(emp.getEmpId());
 		System.out.println(emp);
+		System.out.println("uuuuu");
 	}
 }
